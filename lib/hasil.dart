@@ -2,7 +2,7 @@ import 'package:covid_19_risktest/biodata.dart';
 import 'package:covid_19_risktest/main_page.dart';
 import 'package:flutter/material.dart';
 
-class ResultPage extends StatelessWidget {
+class Hasil extends StatelessWidget {
   Map<int, bool> answers;
   @override
   Widget build(BuildContext context) {
