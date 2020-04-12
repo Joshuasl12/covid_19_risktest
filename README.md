@@ -1,6 +1,6 @@
 # covid_19_risktest
 
-A new Flutter project.
+Project for mid semester test
 
 ## Getting Started
 
