@@ -89,7 +89,7 @@ class _PertanyaanState extends State<Pertanyaan> {
         nomorSoal++;
       });
     } else { 
-      Navigator.pushReplacementNamed(localContext, "ResultPage", arguments: answers);
+      Navigator.pushReplacementNamed(localContext, "Hasil", arguments: answers);
     }
   }
 }
